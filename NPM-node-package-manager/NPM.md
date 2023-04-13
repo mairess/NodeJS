@@ -10,4 +10,4 @@ __Glossary: Dependencies, Packages, Modules__
 - [x] Utilizar módulos de terceiros
 - [x] O que é o diretório node_modules
 - [x] O que é o arquivo package-lock.json
-- [ ] Criar scripts para rodar com o npm
+- [x] Criar scripts para rodar com o npm
