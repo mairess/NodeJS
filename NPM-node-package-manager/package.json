@@ -11,5 +11,8 @@
     "node"
   ],
   "author": "Maires Souza",
-  "license": "MIT"
+  "license": "MIT",
+  "dependencies": {
+    "cfonts": "^3.1.1"
+  }
 }
