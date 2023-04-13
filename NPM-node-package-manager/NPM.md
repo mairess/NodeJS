@@ -13,4 +13,4 @@ __Glossary: Dependencies, Packages, Modules__
 - [x] Criar scripts para rodar com o npm
 - [x] Instalar pacotes de maneira global
 - [x] Desinstalar pacotes
-- [ ] Mudar versão de pacotes
+- [x] Mudar versão de pacotes
