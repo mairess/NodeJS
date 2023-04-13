@@ -6,7 +6,7 @@ __Glossary: Dependencies, Packages, Modules__
 
 - [x] Verificar se temos o npm instalado `npm -v`
 - [x] Criar nosso prórpio pacote
-- [ ] O que é o arquivo package.json
+- [x] O que é o arquivo package.json
 - [ ] Utilizar módulos de terceiros
 - [ ] O que é o diretório node_modules
 - [ ] O que é o arquivo package-lock.json
