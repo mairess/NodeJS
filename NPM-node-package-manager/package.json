@@ -1,12 +1,15 @@
 {
-  "name": "npm-node-package-manager",
+  "name": "qualquer-nome",
   "version": "1.0.0",
   "description": "",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
-  "keywords": [],
-  "author": "",
-  "license": "ISC"
+  "keywords": [
+    "learning",
+    "node"
+  ],
+  "author": "Maires Souza",
+  "license": "MIT"
 }
